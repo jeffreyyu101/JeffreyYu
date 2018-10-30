@@ -1,4 +1,16 @@
-.card .title{
-    font-size: 15px;
-    font-family: 'Libre Baskerville', serif;
+.navbafr {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+
+p{
+    font-family: 'KoHo', sans-serif;
+    font-size: 18px;
+}
+
+#about img{
+    width: 100%;
+    border-radius: 20px;
 }
