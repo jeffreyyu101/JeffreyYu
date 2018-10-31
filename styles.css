@@ -1,3 +1,7 @@
+.jumbotron a{
+    text-decoration: none;
+}
+
 .navbafr {
     position: absolute;
     left: 50%;
@@ -31,6 +35,23 @@
     font-family: 'Open Sans', sans-serif;
     font-style: italic;
 }
+
+#CS .carousel{
+    width: 550px;
+    display: inline-block;
+}
+
+@media (max-width: 600px) {
+  #CS .carousel {
+    width: 100%;
+  }
+}
+
+#CS .icon{
+    font-size: 40px;
+    color: black;
+}
+
 
 .resawards{
     font-family: 'Open Sans', sans-serif;
