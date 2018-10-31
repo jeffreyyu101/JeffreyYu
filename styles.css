@@ -52,6 +52,10 @@
     color: black;
 }
 
+#print .icon{
+    font-size: 40px;
+    color: black;
+}
 
 .resawards{
     font-family: 'Open Sans', sans-serif;
